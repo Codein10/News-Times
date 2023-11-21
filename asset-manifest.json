@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Codein10/News-Times/static/css/main.9c9fe9a2.css",
+    "main.js": "/Codein10/News-Times/static/js/main.1ab7b2ba.js",
+    "static/js/787.4c026eef.chunk.js": "/Codein10/News-Times/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Codein10/News-Times/static/media/loading.9d5cb003ebd6ab7c67ce.gif",
+    "index.html": "/Codein10/News-Times/index.html",
+    "main.9c9fe9a2.css.map": "/Codein10/News-Times/static/css/main.9c9fe9a2.css.map",
+    "main.1ab7b2ba.js.map": "/Codein10/News-Times/static/js/main.1ab7b2ba.js.map",
+    "787.4c026eef.chunk.js.map": "/Codein10/News-Times/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9fe9a2.css",
+    "static/js/main.1ab7b2ba.js"
+  ]
+}
