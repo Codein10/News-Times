@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.text-center{
+  margin-top: 100px; 
+  margin-bottom: 30px;
+  font-weight: 0; 
+  line-height: 1.2;
+  font-size: calc(1.375rem + 1.5vw);
+
+}
